@@ -11,6 +11,3 @@ directory.
 
 Run the R script to get tidy_data.txt output file. 
 
-The text output file gives the average of each variable for each activity and each subject.
-
-
